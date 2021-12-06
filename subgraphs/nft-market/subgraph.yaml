@@ -8,9 +8,9 @@ dataSources:
     name: ERC721NFTMarketV1
     network: bsc
     source:
-      address: "0x17539cCa21C7933Df5c980172d22659B8C345C5A"
+      address: "0xfA94b3057390b07c2F89Cda919225dAf34270bA6"
       abi: ERC721NFTMarketV1
-      startBlock: 11352302
+      startBlock: 12903975
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4

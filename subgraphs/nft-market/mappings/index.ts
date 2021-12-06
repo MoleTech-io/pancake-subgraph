@@ -17,7 +17,7 @@ import { fetchBunnyId, fetchName, fetchSymbol, fetchTokenURI } from "./utils/erc
 
 // Constants
 let ZERO_ADDRESS = "0x0000000000000000000000000000000000000000";
-let PANCAKE_BUNNIES_ADDRESS = "0xdf7952b35f24acf7fc0487d01c8d5690a60dba07";
+let PANCAKE_BUNNIES_ADDRESS = "0xbf61e6df4e53eee40f36b51b624ef9f4dfef2104";
 
 // BigNumber-like references
 let ZERO_BI = BigInt.fromI32(0);
